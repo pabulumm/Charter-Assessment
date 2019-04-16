@@ -1,0 +1,1 @@
+{"app1"=>{"server1"=>{"uptime"=>"5", "loadavg"=>{"server1"=>{"loadavg"=>{"server1"=>{"loadavg"=>"0.01 0.02 0.03"}}}}, "conn1"=>{"state"=>"up"}}, "server2"=>{"uptime"=>"10", "loadavg"=>"0.11 0.22 0.33", "conn1"=>{"state"=>"down"}, "conn3"=>{"state"=>{"status"=>{"type"=>"down"}}}}, "running"=>"true"}}
